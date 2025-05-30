@@ -35,6 +35,7 @@ function App() {
         <Button variant="contained" color="primary">
           Click Me Again
         </Button>
+        <h2 className="text-white text-4xl font-bold">Tailwind is working!</h2>
       </div>
     </>
   );
