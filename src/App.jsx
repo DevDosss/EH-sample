@@ -33,7 +33,7 @@ function App() {
       <div>
         <h1>Hello MUI</h1>
         <Button variant="contained" color="primary">
-          Touch me Again
+          Touch me Again2
         </Button>
         <h2 className="text-white text-4xl font-bold">Tailwind is working!</h2>
       </div>
